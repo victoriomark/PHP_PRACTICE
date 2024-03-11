@@ -10,7 +10,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['Delete'])){
            ?>
             <script>
                 alert("SUCCESSFULLY DELETED")
-                window.location.href = "../index.php"
+                window.location.href = "../Dashboard.php"
             </script>
 <?php
         }
