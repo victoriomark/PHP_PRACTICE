@@ -1,10 +1,15 @@
-
+import Header from "./Compunents/Header.jsx";
+import HeroSection from "./Compunents/HeroSection.jsx";
+import ProductList from "./Compunents/ProductList.jsx";
 function App() {
 
 
   return (
     <>
-     <h1>Hello</h1>
+      <Header/>
+        <HeroSection/>
+        <ProductList/>
+
     </>
   )
 }

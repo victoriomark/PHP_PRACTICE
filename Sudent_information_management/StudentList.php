@@ -1,6 +1,15 @@
 
 <?php
 // connection
+session_start();
+// check id the !session navigate o the LoGOUT
+if(!isset($_SESSION['UserNamme'])){
+    header( "Location: ./EndPoint/logOut.php");
+    exit();
+}
+
+
+
 $conn = mysqli_connect('localhost','root','','stdent_database');
 if(!$conn){
     die('<h1>Connection Problem</h1>');
@@ -102,7 +111,7 @@ $conn->close();
                 <br>
             </div>
             <button type="submit" name="add_student" class="btn btn-primary">Add</button>
-            <a class="btn btn-secondary" href="./index.php">Cancel</a>
+            <a class="btn btn-secondary" href="Dashboard.php">Cancel</a>
         </form>
 </div>
 

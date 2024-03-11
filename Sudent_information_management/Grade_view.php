@@ -1,6 +1,14 @@
+
+
 <?php
-global$conn; global$conn;
+session_start();
+
+if(!isset($_SESSION['UserNamme'])){
+    header("Location: ./EndPoints/logOut.php");
+    exit();
+}
 ?>
+
 <!doctype html>
 <html lang="en">
 <head>

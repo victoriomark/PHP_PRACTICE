@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1611db57-2fe1-480e-8099-f0a63069d2e3" name="Changes" comment="" />
+    <list default="true" id="1611db57-2fe1-480e-8099-f0a63069d2e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Galary-App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Practice/.idea/OOP_Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/.idea/Sudent_information_management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/Assets/cover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/Dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/Sign_up.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/logOut.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudent_information_management/sign_up.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/ style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/ style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/Delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/Delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/Update.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/EndPoints/Update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/Grade_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/Grade_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/StudentList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/pracice.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +28,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
@@ -23,7 +45,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/PC/PhpstormProjects/UploadingImage",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/PC/Desktop/E-COMMERCE-APDEVET-SPACE",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -48,6 +71,7 @@
       <workItem from="1709124405930" duration="13000" />
       <workItem from="1709341328710" duration="33000" />
       <workItem from="1709341721952" duration="75000" />
+      <workItem from="1709910707938" duration="49000" />
     </task>
     <servers />
   </component>

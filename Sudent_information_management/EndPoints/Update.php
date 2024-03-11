@@ -20,7 +20,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_student'])){
              ?>
              <script>
                  alert("Successfully Updated")
-                 window.location.href = "../index.php";
+                 window.location.href = "../Dashboard.php";
              </script>
    <?php
          }else{

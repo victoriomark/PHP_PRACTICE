@@ -1,0 +1,11 @@
+section{
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/psychedelic-paper-shapes-with-copy-space_23-2149378246.jpg?t=st=1710124155~exp=1710127755~hmac=24abf55c5d2b8b245c25549426d6e338fb6b6c272489241050b4a18fccaca4c2&w=1380");
+}
+img{
+    object-fit: cover;
+    height: 20vh;
+    width: 100%;
+}

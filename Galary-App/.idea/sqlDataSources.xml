@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="86c98f0d-9518-4a92-9a74-091e99382b19" name="Task Mapping">
+      <data-sources db="9af49320-7f52-41a7-9010-ee2adb39bbc0" />
+      <scope>
+        <node kind="schema" qname="image_upload" />
+      </scope>
+    </mapping>
+  </component>
+</project>

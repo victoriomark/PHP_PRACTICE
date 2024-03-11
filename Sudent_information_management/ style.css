@@ -1,4 +1,18 @@
 
-.active{
-    display: none;
+#logout{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./Assets/images/cover.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+
 }

@@ -12,9 +12,9 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['sign_in'])){
 //    to prevent from myqli injection
     $username = stripcslashes($username);
     $password = stripcslashes($password);
-
     $password = mysqli_real_escape_string($conn,$password);
     $username =mysqli_real_escape_string($conn,$username);
+
 
     $Query = "SELECT * FROM users where  UserNamme = '$username' and Passwords = '$password';";
     $result =mysqli_query($conn,$Query);
@@ -22,15 +22,23 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['sign_in'])){
 
 
     if($count == 1){
-    $_SESSION['UserNamme'] = $username;
-    echo "successfully Login";
+       $_SESSION['UserNamme'] = $username;
+     ?>
+        <script>alert("Successfully logged")</script>
+    <?php
 //    now if success redirect to dashboard
         header("Location: ../Dashboard.php");
 //        exit
+        exit();
     }else{
-       header("Location: ../index.php");
+        ?>
+        <script>
+            alert("You are not Registered")
+            window.location.href = "../index.php";
+        </script>
+        <?php
     }
-    exit();
+
 //
 
 }
