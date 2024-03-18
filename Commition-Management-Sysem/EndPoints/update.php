@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <title>Document</title>
 </head>
-<body>
+<body class="bg-dark text-light">
 <div class="container mt-4">
-    <h1 class="text-muted">Update Client Information</h1>
+    <h1 >Update Client Information</h1>
     <form method="post" enctype="multipart/form-data">
     <?php
 
@@ -41,9 +41,21 @@
                   <option value="Done">Done</option>
               </select>
               <br>
+              <img width="100" class="img-thumbnail rounded-5" src="./Client_image/<?php echo $row['frofile'] ?>" alt="profile">
 
 
-              <button name="update_data" value="<?php echo $Id ?>" type="submit" class="btn btn-primary">Save</button>
+             <div class="mt-2">
+                 <button name="update_data" value="<?php echo $Id ?>" type="submit" class="btn btn-primary">Save</button>
+                 <button id="cancel" type="button"  class="btn btn-warning fw-bold">Cancel</button>
+                   <!-- js for cancel event-->
+                 <script>
+                     const cancel = document.querySelector("#cancel");
+                     cancel.addEventListener("click", () =>{
+                         window.location.href = "../index.php";
+                         // nice one
+                     })
+                 </script>
+             </div>
     <?php
           }
       }
@@ -81,6 +93,7 @@ if($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST['update_data'])){
 </div>
 </body>
 </html>
+
 
 
 
