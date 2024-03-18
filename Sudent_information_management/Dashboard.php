@@ -12,6 +12,8 @@ if(!isset($_SESSION['UserNamme'])){
  exit();
 }
 ?>
+
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -22,44 +24,11 @@ if(!isset($_SESSION['UserNamme'])){
     <link rel="stylesheet" href="./%20style.css">
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="https://kit.fontawesome.com/d4532539ca.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./Style/Dashboard.css">
     <title>Student Information</title>
 
-
-    <style>
-        a{
-            text-decoration: none;
-            color: #1a1d20;
-            font-weight: 500;
-        }
-        ul li{
-            padding: 10px;
-            border-radius: 10px;
-        }
-        ul li:hover{
-            background-color: aliceblue;
-        }
-        #flush-collapseOne a:hover{
-            background-color: #444;
-            color: #ffff;
-            padding: 5px;
-            border-radius: 5px;
-
-
-        }
-        #logo{
-            width: 7rem;
-
-            object-fit: cover;
-        }
-        i{
-            transition: 0.5s;
-        }
-        i:hover{
-            transform: translateY(-5px);
-        }
-    </style>
 </head>
-<body >
+<body class="bg-dark text-light" >
 
 <div class="container-fluid bg-dark  p-3 d-flex justify-content-between align-items-center">
   <div>
@@ -113,7 +82,7 @@ if(!isset($_SESSION['UserNamme'])){
     <h3>Student List</h3>
 <!--table-->
 
-    <table class="table  table-hover table-responsive">
+    <table class="table table-hover table-responsive table-dark table-bordered">
         <thead>
         <tr>
             <th scope="col">Student_ID</th>
@@ -132,7 +101,7 @@ if(!isset($_SESSION['UserNamme'])){
         if(!$conn){
             die("Connection Problem") .mysqli_connect_error();
         }else{
-            $Query = " select  f_name,l_name,m_name,phone,stdent_ID,class FROM student_db; ";
+            $Query = " select  f_name,l_name,m_name,phone,stdent_ID,class FROM student_db LIMIT 10 ; ";
             $result = mysqli_query($conn,$Query);
 
             while ($row = mysqli_fetch_assoc($result)){

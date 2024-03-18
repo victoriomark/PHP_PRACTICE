@@ -27,6 +27,15 @@ if(!isset($_SESSION['UserNamme'])){
     <form class="col-lg-4 d-flex gap-2" method="post">
         <input class="form-control " name="search_ID_STUDENT" type="text" placeholder="Enter Your Student ID.." required>
         <button name="search_btn" class="btn btn-primary" type="submit">Search</button>
+        <button id="btn_cancel" class="btn btn-warning fw-bold" type="button">Cancel</button>
+
+<!--        handle the event for cancel btn-->
+        <script>
+            const btn_cancel = document.getElementById("btn_cancel");
+            btn_cancel.addEventListener("click",() =>{
+                window.location.href = "./Dashboard.php";
+            })
+        </script>
     </form>
 </div>
 <div class="container mt-4">
@@ -44,6 +53,7 @@ if(!isset($_SESSION['UserNamme'])){
     <tbody>
 <?php
  include_once ("Connect.php");
+ global $conn;
  if(!$conn){
      die("Connection Problem");
  }else{

@@ -10,6 +10,8 @@ $Total = 0;
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <script src="https://kit.fontawesome.com/d4532539ca.js" crossorigin="anonymous"></script>
+<!--    for icon-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <title>Home</title>
 </head>
 <body class="bg-dark">
@@ -34,7 +36,7 @@ $Total = 0;
             die("Connection problem");
         }else{
 //            select all data
-            $Query = "SELECT * FROM clients;";
+            $Query = "SELECT * FROM clients LIMIT 5;";
             $result = mysqli_query($conn,$Query);
 
             while ($row = mysqli_fetch_assoc($result)){
@@ -52,6 +54,14 @@ $Total = 0;
                         <form method="post" action="./EndPoints/update.php">
                             <button name="update_btn" type="submit" value="<?php echo $row['ID'];?>" class="btn text-warning-emphasis">
                                 <i class="fa-regular fa-pen-to-square"></i>
+                            </button>
+                        </form>
+<!--                        kaya pala nasa nasa loob ka hayaop ka!-->
+                        <form method="post" action="./EndPoints/Delete.php">
+                            <button name="btn_delete" value="<?php echo $row['ID'];?>" class="btn">
+                                   <span class="material-symbols-outlined text-light-emphasis">
+                                    delete_forever
+                                    </span>
                             </button>
                         </form>
                     </td>

@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="./style.css">
     <title>Add New Client</title>
 </head>
-<body>
+<body class="bg-dark text-light">
 
 <div class="container mt-4">
-    <h1 class="text-muted">Add New Client</h1>
+    <h1 >Add New Client</h1>
     <form method="post" action="./EndPoints/UpdloadData.php" enctype="multipart/form-data">
 
         <label class="fw-bold" for="client_name">Client Name</label>
@@ -25,7 +25,7 @@
 
         <select name="status" class="form-select" aria-label="Default select example">
             <option selected>Select Project Status</option>
-            <option value="Ongoing">Pending</option>
+            <option value="Ongoing">Ongoing</option>
             <option value="Done">Done</option>
         </select>
         <br>
@@ -34,6 +34,15 @@
         <input name="profile" class="form-control" id="client_profile"  type="file"  required>
         <br>
         <button name="upload_data" type="submit" class="btn btn-primary">Add New Client</button>
+        <button id="cancel" type="button"  class="btn btn-warning fw-bold">Cancel</button>
+        <!-- js for cancel event-->
+        <script>
+            const cancel = document.querySelector("#cancel");
+            cancel.addEventListener("click", () =>{
+                window.location.href = "./index.php";
+                // nice one
+            })
+        </script>
     </form>
 
 </div>

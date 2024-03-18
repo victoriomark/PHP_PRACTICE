@@ -99,6 +99,15 @@ $Student_id = $x .(rand(500,1000));
                     <br>
                 </div>
                 <button type="submit" value="<?php echo $row['stdent_ID'];?>" name="save_student" class="btn btn-primary">Save</button>
+                <button id="btn_cancel" class="btn btn-warning fw-bold" type="button">Cancel</button>
+
+                <!--        handle the event for cancel btn-->
+                <script>
+                    const btn_cancel = document.getElementById("btn_cancel");
+                    btn_cancel.addEventListener("click",() =>{
+                        window.location.href = "../Dashboard.php";
+                    })
+                </script>
                 <?php
             }
             $conn->close();

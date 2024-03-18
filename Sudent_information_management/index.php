@@ -20,7 +20,7 @@
         <input name="username" class="form-control" type="text" placeholder="Enter UserName" required>
         <br>
         <label for="Password">Password</label>
-        <input name="Password" class="form-control" type="text" placeholder="Enter Password" required>
+        <input name="Password" class="form-control" type="password" placeholder="Enter Password" required>
         <br>
        <button id="btn_login" name="sign_in"  class="btn p-2 btn-primary" type="submit">Login</button>
         <a class="text-primary mt-2" href="./sign_up.php">Sign Up</a>
