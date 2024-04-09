@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91e55d6f-befa-4590-b899-d64020c874c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/images/Attendance.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AttendanceRecord.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisplayRecordData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EndPoints/AttendanceRec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EndPoints/EnrollStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EndPoints/UpdateSave.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_JS/Attendance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_JS/AttendanceRecord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_JS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TakeAttendance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5bfbf74-8708-4611-bceb-a77f477661f2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5bfbf74-8708-4611-bceb-a77f477661f2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayStudent.php" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayStudent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enroll.php" beforeDir="false" afterPath="$PROJECT_DIR$/Enroll.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnrollStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main_JS/Collage.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main_JS/Collage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudentList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eepCgntz6eb1cS0Uk7d4M4hKYH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PHP Script.UpdateSave.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "L:/PhpstormProjects/enrollment_syemtem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\enrollment_syemtem\Assets\images" />
+      <recent name="L:\PhpstormProjects\enrollment_syemtem\EndPoints" />
+      <recent name="L:\PhpstormProjects\enrollment_syemtem\Main_JS" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UpdateSave.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/EndPoints/UpdateSave.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.UpdateSave.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e55d6f-befa-4590-b899-d64020c874c5" name="Changes" comment="" />
+      <created>1712274772315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712274772315</updated>
+      <workItem from="1712274775105" duration="4187000" />
+      <workItem from="1712281067103" duration="10217000" />
+      <workItem from="1712318268763" duration="1560000" />
+      <workItem from="1712360293389" duration="5903000" />
+      <workItem from="1712496153358" duration="4570000" />
+      <workItem from="1712541453716" duration="5013000" />
+      <workItem from="1712555429331" duration="2963000" />
+      <workItem from="1712584748292" duration="10818000" />
+      <workItem from="1712627434158" duration="755000" />
+      <workItem from="1712628218156" duration="1303000" />
+      <workItem from="1712629533864" duration="196000" />
+      <workItem from="1712629741799" duration="252000" />
+      <workItem from="1712644979922" duration="5193000" />
+      <workItem from="1712668371601" duration="2374000" />
+      <workItem from="1712670936331" duration="10822000" />
+      <workItem from="1712707879852" duration="5245000" />
+      <workItem from="1712746534442" duration="18195000" />
+      <workItem from="1712794370810" duration="9377000" />
+      <workItem from="1712841630279" duration="13084000" />
+      <workItem from="1712884466294" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

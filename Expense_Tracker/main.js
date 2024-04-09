@@ -151,7 +151,6 @@ const DeleteFunction = () => {
                       Id_Delete: Delete_Id
                   },
                   success: function (data,status){
-                      console.log(status)
                       Swal.fire({
                    title: "Successfully Deleted",
                    icon: "success",
@@ -167,6 +166,5 @@ const DeleteFunction = () => {
      })
 
 };
-
 
 

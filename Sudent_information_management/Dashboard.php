@@ -1,5 +1,5 @@
 <?php
-global$conn; global$conn;
+global$conn;
 ?>
 
 <?php

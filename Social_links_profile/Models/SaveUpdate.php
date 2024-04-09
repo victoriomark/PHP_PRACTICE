@@ -1,1 +1,1 @@
-<?php
+<?phpif($_SERVER['REQUEST_METHOD'] === "POST"){    include "config.php";    global $conn;    $id = $_POST['ID'];    $SelectValue = $_POST['SelectValue'];    $Title = $_POST['Title'];    $todoSave = $_POST['todoSave'];    $DescriptionSave = $_POST['DescriptionSave'];    $Query = "UPDATE todo_app_tb SET todo_title = '$Title', todo = '$todoSave',status = '$SelectValue',Description = '$DescriptionSave' WHERE ID = $id;";    // Execute The Query    mysqli_query($conn,$Query);}

@@ -3,7 +3,7 @@ include "config.php";
 global  $conn;
 if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['Expense'])){
 $Tr = ""; // Initialize $Tr outside the loop
-$Query  = "SELECT * FROM expense_category LIMIT 5";
+$Query  = "SELECT * FROM expense_category LIMIT 15";
 $result = mysqli_query($conn,$Query);
 
 // check if the result is greater than 0
@@ -22,8 +22,8 @@ $expense_name = $row['ExpenseName'];
     $Tr .= "<td>₱$expense_amount</td>";
     $Tr .= "<td>$created_at</td>";
     $Tr .= "<td>
-              <button  type='button' id='btn_update'  value='$ID' class='btn'><i class='fa-solid fa-pen-to-square'></i></button> 
-              <button type='button' id='btn_delete' value='$ID' class='btn btn_delete'><i class='fa-solid fa-trash-can'></i></button> 
+              <button  type='button' id='btn_update'  value='$ID' class='btn'><i class='fa-solid fa-pen-to-square text-light'></i></button> 
+              <button type='button' id='btn_delete' value='$ID' class='btn btn_delete'><i class='fa-solid fa-trash-can text-light' ></i></button> 
             </td>";
 
     $Tr .= "</tr>"; // Close the table row

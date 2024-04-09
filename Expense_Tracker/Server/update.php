@@ -29,7 +29,7 @@ if(isset($_POST['ID'])){
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            <button  id="save_category" value="<?php echo $row['ID'] ?>"  type="button" class="btn btn-primary">Save</button>
+                            <button  id="save_category" value="<?php echo $row['ID'] ?>"  type="button" class="btn btn-success">Save</button>
                         </div>
                     </div>
                 </div>

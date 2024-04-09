@@ -7,7 +7,15 @@ if($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST['Reg'])){
     $Username = $_POST['Username'];
     $Password = $_POST['Password'];
 
-    $Query = "INSERT INTO admin(UserName,Passwords) VALUES('$Username','$Password');";
-    mysqli_query($conn,$Query);
+
+    $stmt = $conn->prepare("INSERT INTO admin(UserName,Passwords)values(?,?)");
+    $stmt->bind_param("ss",$Username,$Password);
+
+    if($stmt->execute()){
+        echo "Successfully Registered";
+    }else{
+        echo "Error" . $stmt->error;
+    }
+    $stmt->close();
 
 }

@@ -1,1 +1,1 @@
-<?php
+<?phpinclude "config.php";global $conn;if($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST['create_'])){    $todo = $_POST['Todo'];    $SelectValue = $_POST['SelectValue'];    $Description =$_POST['Description'];    $todo_title = $_POST['todo_title'];    $Query = "INSERT INTO todo_app_tb(todo_title,todo,status,Description) values('$todo_title','$todo','$SelectValue','$Description')";   if(mysqli_query($conn,$Query)){       echo "success";   }else{       echo "error ". mysqli_error($conn);   }}

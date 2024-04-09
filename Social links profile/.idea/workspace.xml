@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49950c95-a9a2-4387-ba84-241d02dfe823" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/AddStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Assets/COVER.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Display.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/LogOut.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Reg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Reg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/Sign_In.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attendance_Management_System/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/CreateExpense.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/DeleteExpent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/Server/Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/Uploads/MyProfile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/createExpenseDisplayData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/create_expense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expense_Tracker/index_createExpense.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/Display.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/Display.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/Server/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/Server/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudent_information_management/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Sudent_information_management/Dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/Todo_List_App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/Add_todo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/Delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/Displaydata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/Up.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/connect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List_App/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2eGsbUVO6hmZpIEEeAQYnQrWEBG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49950c95-a9a2-4387-ba84-241d02dfe823" name="Changes" comment="" />
+      <created>1711542321022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711542321022</updated>
+      <workItem from="1711542322080" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

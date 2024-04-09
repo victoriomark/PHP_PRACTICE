@@ -9,3 +9,26 @@ ul li a i{
 header h2{
     color: #0D9276;
 }
+
+.offcanvas{
+    background-color: #31363F;
+}
+.offcanvas ul li{
+    background-color: #31363F;
+}
+.offcanvas ul li{
+    background-color: #76ABAE;
+    transition: 0.5s;
+}
+.offcanvas ul li:hover{
+    transform: translateX(-5px);
+}
+
+body{
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+img{
+    border: solid #198754 5px;
+}

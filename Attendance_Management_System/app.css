@@ -1,0 +1,36 @@
+
+body{
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: italic;
+    transition: 0.5s;
+}
+ul li a{
+    text-decoration: none;
+    color: #339CA4;
+    font-weight: bold;
+}
+#hero_Section{
+    height: 80vh;
+}
+#Burger_icon{
+    display: none;
+}
+
+@media (width < 768px) {
+    nav{
+        display: none;
+    }
+    #Burger_icon{
+        display: block;
+    }
+}
+/*#delete{*/
+/*    border: solid 3px #339CA4;*/
+/*}*/
+/*#edit{*/
+/*    border: solid 3px #339CA4;*/
+/*}*/
+#card_header{
+   background-color: #35374B;
+}
