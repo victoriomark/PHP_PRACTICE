@@ -1,0 +1,1 @@
+<?phpinclude './Connect.php';global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST' || isset($_POST['id'])){    $Query = "SELECT * FROM ";}

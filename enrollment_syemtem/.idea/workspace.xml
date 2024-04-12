@@ -4,32 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91e55d6f-befa-4590-b899-d64020c874c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/images/Attendance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AttendanceRecord.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DisplayRecordData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndPoints/AttendanceRec.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndPoints/EnrollStudent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndPoints/UpdateSave.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main_JS/Attendance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main_JS/AttendanceRecord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main_JS/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentView.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TakeAttendance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Update.php" afterDir="false" />
+    <list default="true" id="91e55d6f-befa-4590-b899-d64020c874c5" name="Changes" comment="uUpdate">
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Assets/images/about_us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Assets/images/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Assets/images/document_pic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Assets/images/freepik-export-20240501153720fG5y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Assets/images/hero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Auth/LogOut.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Auth/Log_in.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Main_JS/BarrangayOfficials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Main_JS/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Main_JS/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/AddBarrangay_officials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/AddBlotter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/AddHouseHold.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/Connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/Display_officials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/Update_Officials_Details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/Update_Save.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/ViewOfficials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/Model/addSenior.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/View/Barrangay_officials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/View/Dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/View/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BRG_SYSTEM/View/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grades.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Attendance_Management_System/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Attendance_Management_System/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FOOD_ORDERING/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FOOD_ORDERING/Connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../FOOD_ORDERING/Connect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5bfbf74-8708-4611-bceb-a77f477661f2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5bfbf74-8708-4611-bceb-a77f477661f2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/Todo_List.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/fileColors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/Endpoint/Delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/Endpoint/Edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/Endpoint/addtodo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_List/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Delete.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayStudent.php" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayStudent.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enroll.php" beforeDir="false" afterPath="$PROJECT_DIR$/Enroll.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnrollStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main_JS/AttendanceRecord.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main_JS/AttendanceRecord.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main_JS/Collage.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main_JS/Collage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudentList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main_JS/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TakeAttendance.php" beforeDir="false" afterPath="$PROJECT_DIR$/TakeAttendance.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +75,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
@@ -60,6 +89,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.php.executor": "Debug",
     "PHP Script.UpdateSave.php.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,12 +116,16 @@
       <recent name="L:\PhpstormProjects\enrollment_syemtem\Main_JS" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/enrollment_syemtem/enrollment_syemtem/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="UpdateSave.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/EndPoints/UpdateSave.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.php" />
         <item itemvalue="PHP Script.UpdateSave.php" />
       </list>
     </recent_temporary>
@@ -130,11 +164,41 @@
       <workItem from="1712746534442" duration="18195000" />
       <workItem from="1712794370810" duration="9377000" />
       <workItem from="1712841630279" duration="13084000" />
-      <workItem from="1712884466294" duration="113000" />
+      <workItem from="1712884466294" duration="2582000" />
+      <workItem from="1712927584766" duration="1646000" />
+      <workItem from="1712964860909" duration="2209000" />
+      <workItem from="1713013124838" duration="1412000" />
+      <workItem from="1713756921007" duration="77000" />
+      <workItem from="1713795183231" duration="627000" />
+      <workItem from="1713829757022" duration="19000" />
+      <workItem from="1713913604599" duration="748000" />
+      <workItem from="1713916510592" duration="2865000" />
+      <workItem from="1713962666964" duration="8000" />
+      <workItem from="1714037339602" duration="116000" />
+      <workItem from="1714432291039" duration="95000" />
+      <workItem from="1714433913357" duration="552000" />
+      <workItem from="1714542881043" duration="631000" />
+      <workItem from="1714547136101" duration="19000" />
+      <workItem from="1714660644276" duration="86000" />
+      <workItem from="1714660823972" duration="55000" />
     </task>
+    <task id="LOCAL-00001" summary="up">
+      <option name="closed" value="true" />
+      <created>1712884755547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712884755548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up" />
+    <MESSAGE value="uUpdate" />
+    <option name="LAST_COMMIT_MESSAGE" value="uUpdate" />
   </component>
 </project>

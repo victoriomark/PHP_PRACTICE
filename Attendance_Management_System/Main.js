@@ -84,24 +84,22 @@ const Display = () =>{
             Tb_body.innerHTML = data;
         }
     })
-    DeleteFunction()
+
 }
 Display()
 
 
 
 const DeleteFunction = () => {
-    const btn_delete = document.querySelectorAll("#btn_delete");
+    let DeleteValue;
+    document.addEventListener("click", (event) =>{
+        if(event.target.id === "btn_delete"){
+           DeleteValue = event.target.value;
 
-    btn_delete.forEach((delete_btn) =>{
 
-        delete_btn.addEventListener(("click"),() =>{
-            const Delete_Id =  delete_btn.value
-            // ajax request for deleting items
-            console.log(delete_btn)
-            Display()
-        })
-
+        }
     })
-    console.log(btn_delete)
+
 };
+
+DeleteFunction()

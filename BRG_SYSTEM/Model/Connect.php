@@ -1,0 +1,1 @@
+<?php$conn = mysqli_connect('localhost','root','','brg_sytem');if(!$conn){    die("<h1>CONNECTION PROBLEM</h1>");}

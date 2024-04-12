@@ -1,0 +1,1 @@
+<?phpinclude './Connect.php';global $conn;if($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST['SaveId'])){    $SaveId = $_POST['SaveId'];    $StatusUpdated = $_POST['StatusUpdated'];    $Query = "UPDATE requesteddocuments SET Status = '$StatusUpdated' WHERE ID = $SaveId";    mysqli_query($conn,$Query);}
