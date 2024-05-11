@@ -66,8 +66,8 @@
               while ( $row = mysqli_fetch_assoc($result)){
                   ?>
                   <h1 class="card-title text-light">
-                      <?php echo number_format($row['REVENUE'])?>
                       <span>₱</span>
+                      <?php echo number_format($row['REVENUE'])?>
                   </h1>
              <?php
               }
@@ -145,7 +145,13 @@
      </div>
     </section>
     <div class="container-fluid mt-5">
-        <h4 class="text-muted">Order List</h4>
+      <div class="container-fluid d-flex justify-content-between align-items-center">
+          <h4 class="text-muted">Order List</h4>
+          <div class="d-flex gap-2">
+              <label for="SearchOrder"></label><input class="form-control" type="search" id="SearchOrder" placeholder="Tracking code..">
+              <button id="SearchOrder_btn" style="background-color: #142D55" class="btn text-light">Search</button>
+          </div>
+      </div>
         <div class="container-fluid">
             <table class="table table-hover">
                 <thead>
@@ -161,6 +167,7 @@
                 </tr>
                 </thead>
                 <tbody id="data_container">
+
                 </tbody>
             </table>
         </div>
