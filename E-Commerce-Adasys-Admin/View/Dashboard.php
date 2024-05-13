@@ -18,7 +18,7 @@
 
 </head>
 <body class="d-flex justify-content-center align-items-center">
-<nav>
+<nav id="SideBar">
     <div class="container-fluid mt-3 d-flex justify-content-center align-items-center">
         <img id="Logo" src="../Assets/finalLogo.png" alt="Avatar">
     </div>
@@ -43,7 +43,7 @@
 <main style="height: 100vh;" class="container-fluid">
     <header class="container-fluid d-flex justify-content-between align-items-center rounded-2 shadow-sm p-3 mt-2">
        <div>
-           <i class="fa-solid fa-bars text-light"></i>
+           <i id="MenuBar" class="fa-solid fa-bars text-light"></i>
        </div>
         <div class="d-flex gap-2 align-items-center justify-content-between">
           <button class="btn">
