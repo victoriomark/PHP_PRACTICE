@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="533a8213-d129-4450-a1b6-193fa2b9cd0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/AboutPage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/Assets/Aboutimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/Menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/Model/DisplayingMenus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/DeleteProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/SaveProductUpdated_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/ViewProducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/MainJS/ProductList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/MainJS/ProductList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/DisplayOrderList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/DisplayOrderList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/DisplayProductList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/DisplayProductList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/ViewUpdateProductList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/ViewUpdateProductList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Products.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2g8kPhuIvwzIUITxtCZ9hUWiXYV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "L:/PhpstormProjects/E-Commerce-Adasys-Admin",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\Adasys_Space\Assets\Burger_images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\Adasys_Space\Assets" />
+      <recent name="L:\PhpstormProjects\Adasys_Space\Assets\Burger_images" />
+      <recent name="L:\PhpstormProjects\Adasys_Space\Assets\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="533a8213-d129-4450-a1b6-193fa2b9cd0a" name="Changes" comment="" />
+      <created>1715086570655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715086570655</updated>
+      <workItem from="1715086574739" duration="2540000" />
+      <workItem from="1715089128497" duration="204000" />
+      <workItem from="1715089480460" duration="2000" />
+      <workItem from="1715089690103" duration="3000" />
+      <workItem from="1715090156456" duration="2000" />
+      <workItem from="1715090344906" duration="365000" />
+      <workItem from="1715094217564" duration="4484000" />
+      <workItem from="1715113573153" duration="12679000" />
+      <workItem from="1715137212994" duration="14423000" />
+      <workItem from="1715168935823" duration="6492000" />
+      <workItem from="1715206756404" duration="10654000" />
+      <workItem from="1715218971449" duration="3893000" />
+      <workItem from="1715231933977" duration="1399000" />
+      <workItem from="1715266242822" duration="2733000" />
+      <workItem from="1715296616910" duration="2746000" />
+      <workItem from="1715307049336" duration="713000" />
+      <workItem from="1715341913116" duration="537000" />
+      <workItem from="1715343405809" duration="335000" />
+      <workItem from="1715346378733" duration="468000" />
+      <workItem from="1715391024804" duration="48000" />
+      <workItem from="1715591257771" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

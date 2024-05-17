@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb4f1b87-2d4b-4bd6-9281-3c26a15e854b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/Login_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/Logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Products.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fJ61fniCMFJyYRraTQLF6MNnBH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/BRG_SYSTEM&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\BRG_SYSTEM\Assets\images" />
+      <recent name="L:\PhpstormProjects\BRG_SYSTEM\Assets" />
+      <recent name="L:\PhpstormProjects\BRG_SYSTEM\Auth" />
+      <recent name="L:\PhpstormProjects\BRG_SYSTEM\View" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4f1b87-2d4b-4bd6-9281-3c26a15e854b" name="Changes" comment="" />
+      <created>1713506619476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713506619476</updated>
+      <workItem from="1713506621810" duration="6490000" />
+      <workItem from="1713517225219" duration="2262000" />
+      <workItem from="1713520348892" duration="6798000" />
+      <workItem from="1713537104428" duration="2165000" />
+      <workItem from="1713575227512" duration="1684000" />
+      <workItem from="1713618193636" duration="5000" />
+      <workItem from="1713623873660" duration="3000" />
+      <workItem from="1713669493025" duration="900000" />
+      <workItem from="1713698759359" duration="2882000" />
+      <workItem from="1713743955444" duration="3390000" />
+      <workItem from="1713753406446" duration="5514000" />
+      <workItem from="1713784987909" duration="5718000" />
+      <workItem from="1713792698973" duration="3218000" />
+      <workItem from="1713829752465" duration="6043000" />
+      <workItem from="1713877411297" duration="2608000" />
+      <workItem from="1713911203458" duration="3178000" />
+      <workItem from="1713916515245" duration="7970000" />
+      <workItem from="1713962662427" duration="4994000" />
+      <workItem from="1713968355542" duration="8683000" />
+      <workItem from="1714004421942" duration="4503000" />
+      <workItem from="1714037289953" duration="10835000" />
+      <workItem from="1714118225435" duration="6862000" />
+      <workItem from="1714179277405" duration="9771000" />
+      <workItem from="1714259728876" duration="866000" />
+      <workItem from="1714261557319" duration="2733000" />
+      <workItem from="1714310088812" duration="932000" />
+      <workItem from="1714349812234" duration="6867000" />
+      <workItem from="1714397416077" duration="9183000" />
+      <workItem from="1714430217145" duration="9989000" />
+      <workItem from="1714448428794" duration="599000" />
+      <workItem from="1714477464958" duration="1000" />
+      <workItem from="1714478753333" duration="1000" />
+      <workItem from="1714480879397" duration="16000" />
+      <workItem from="1714482095447" duration="1000" />
+      <workItem from="1714482735131" duration="2000" />
+      <workItem from="1714485283857" duration="530000" />
+      <workItem from="1714520690260" duration="4119000" />
+      <workItem from="1714529393714" duration="2813000" />
+      <workItem from="1714541279903" duration="4778000" />
+      <workItem from="1714547156461" duration="448000" />
+      <workItem from="1714564193394" duration="8203000" />
+      <workItem from="1714575415107" duration="5008000" />
+      <workItem from="1714606406373" duration="22000" />
+      <workItem from="1714610519794" duration="1000" />
+      <workItem from="1714613873492" duration="1000" />
+      <workItem from="1714638201896" duration="4624000" />
+      <workItem from="1714651882515" duration="9691000" />
+      <workItem from="1714713672846" duration="3368000" />
+      <workItem from="1714721356728" duration="5081000" />
+      <workItem from="1714738395001" duration="10708000" />
+      <workItem from="1714780134708" duration="2963000" />
+      <workItem from="1714824052628" duration="606000" />
+      <workItem from="1714837860218" duration="4160000" />
+      <workItem from="1714864303060" duration="9426000" />
+      <workItem from="1714885311305" duration="9655000" />
+      <workItem from="1714911706776" duration="1264000" />
+      <workItem from="1714957887954" duration="3492000" />
+      <workItem from="1714962381790" duration="7900000" />
+      <workItem from="1714981421628" duration="712000" />
+      <workItem from="1714995376056" duration="4152000" />
+      <workItem from="1715038592519" duration="6132000" />
+      <workItem from="1715046360568" duration="195000" />
+      <workItem from="1715082851573" duration="544000" />
+      <workItem from="1715145556558" duration="2384000" />
+      <workItem from="1715168942552" duration="1058000" />
+      <workItem from="1715322800247" duration="708000" />
+      <workItem from="1715324254655" duration="807000" />
+      <workItem from="1715340479330" duration="1114000" />
+      <workItem from="1715654914150" duration="2089000" />
+      <workItem from="1715667767422" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

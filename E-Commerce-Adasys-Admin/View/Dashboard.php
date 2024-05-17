@@ -1,3 +1,9 @@
+<?php
+session_start();
+if(!isset($_SESSION['status'])){
+    header('Location: ./Login.php');
+}
+?>
 
 <html lang="en">
 <head>
@@ -10,7 +16,8 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <!--CDN FONTS-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="ht
+    tps://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Averia+Serif+Libre:ital,wght@1,300&family=Concert+One&family=Exo+2:ital,wght@0,700;1,700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lexend:wght@100..900&family=Paytone+One&family=Tilt+Neon&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/d4532539ca.js" crossorigin="anonymous"></script>
@@ -36,7 +43,9 @@
 
      <li class="d-flex justify-content-center gap-1  align-items-center p-2 bg-danger rounded-3">
          <i class="fa-solid fa-right-from-bracket text-light "></i>
-         <a class="fw-bold text-light" href="#">Logout</a>
+         <form method="post" action="../Model/Logout.php">
+             <button name="Logout" type="submit" class="btn btn-danger">Logout</button>
+         </form>
      </li>
  </ul>
 </nav>
@@ -56,92 +65,8 @@
         </div>
     </header>
     <section style="background-color: #EEF7FF" class="container-fluid  p-4 mt-5 shadow-sm rounded-3">
-     <div class="container row gap-3">
-         <div style="background-color: #142D55" class="card border-0 col-lg-3 p-3  d-flex flex-column justify-content-center align-items-center">
-             <?php
-             include '../Model/Connect.php';
-             global $conn;
-             $Query = "SELECT SUM(OrderPrice) AS REVENUE FROM orders WHERE OrderStatus = 'Received'";
-             $result = mysqli_query($conn,$Query);
-              while ( $row = mysqli_fetch_assoc($result)){
-                  ?>
-                  <h1 class="card-title text-light">
-                      <span>₱</span>
-                      <?php echo number_format($row['REVENUE'])?>
-                  </h1>
-             <?php
-              }
-             ?>
-             <h5 class="badge bg-primary">REVENUE</h5>
-         </div>
+     <div  id="RevenueContainer"  class="container row gap-3">
 
-         <div style="background-color: #142D55" class="card border-0 col-lg-3 p-3  d-flex flex-column justify-content-center align-items-center">
-             <?php
-             include '../Model/Connect.php';
-             global $conn;
-             $Query = "SELECT COUNT(OrderStatus) AS PROCESSING FROM orders WHERE OrderStatus = 'Processing'";
-             $result = mysqli_query($conn,$Query);
-             while ( $row = mysqli_fetch_assoc($result)){
-                 ?>
-                 <h1 class="card-title text-light">
-                     <?php echo number_format($row['PROCESSING'])?>
-                 </h1>
-                 <?php
-             }
-             ?>
-             <h5 class="badge bg-warning">PROCESSING</h5>
-         </div>
-
-        <div style="background-color: #142D55" class="card border-0 col-lg-3 p-3  d-flex flex-column justify-content-center align-items-center">
-            <?php
-            include '../Model/Connect.php';
-            global $conn;
-            $Query = "SELECT COUNT(OrderStatus) AS RECEIVE FROM orders WHERE OrderStatus = 'Received'";
-            $result = mysqli_query($conn,$Query);
-            while ( $row = mysqli_fetch_assoc($result)){
-                ?>
-                <h1 class="card-title text-light">
-                    <?php echo number_format($row['RECEIVE'])?>
-                </h1>
-                <?php
-            }
-            ?>
-             <h5 class="badge bg-success">RECEIVE</h5>
-         </div>
-
-   <div style="background-color: #142D55" class="card border-0 col-lg-3 p-3  d-flex flex-column justify-content-center align-items-center">
-       <?php
-       include '../Model/Connect.php';
-       global $conn;
-       $Query = "SELECT COUNT(OrderPrice) AS PENDING FROM orders WHERE OrderStatus = 'Pending'";
-       $result = mysqli_query($conn,$Query);
-       while ( $row = mysqli_fetch_assoc($result)){
-           ?>
-           <h1 class="card-title text-light">
-               <?php echo number_format($row['PENDING'])?>
-           </h1>
-           <?php
-       }
-       ?>
-       <h5 class="badge bg-info">PENDING</h5>
-         </div>
-
-         <div style="background-color: #142D55" class="card border-0 col-lg-3 p-3  d-flex flex-column justify-content-center align-items-center">
-             <?php
-             include '../Model/Connect.php';
-             global $conn;
-             $Query = "SELECT COUNT(OrderStatus) AS CANCELED FROM orders WHERE OrderStatus = 'Canceled'";
-             $result = mysqli_query($conn,$Query);
-             while ( $row = mysqli_fetch_assoc($result)){
-                 ?>
-                 <h1 class="card-title text-light">
-                     <?php echo number_format($row['CANCELED'])?>
-                 </h1>
-                 <?php
-             }
-             ?>
-             <h5 class="badge bg-danger">CANCELED</h5>
-         </div>
      </div>
     </section>
     <div class="container-fluid mt-5">

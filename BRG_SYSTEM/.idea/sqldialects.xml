@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Auth/Log_in.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/AddBarrangay_officials.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/AddBlotter.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/AddHouseHold.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/AddResidenceRecord.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DisplayResidents.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/Display_officials.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/Requested_BRG_clearance.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/SaveDocsUpdated.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/TrackRequst.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/UpdateReqestedDocs.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/Update_Officials_Details.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/Update_Save.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/ViewOfficials.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/addSenior.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/View/Dashboard.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/View/ViewDocuments_Requested.php" dialect="GenericSQL" />
+  </component>
+</project>
