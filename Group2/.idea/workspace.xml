@@ -5,16 +5,284 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca96b386-0787-4f74-8496-1af9f741fa74" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/DisplayUpdatedRevenue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/Login_admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/Model/Logout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/E-commerce/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Products.php" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/View/Products.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Act5_erwin/.idea/Act5_erwin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Assets/coffee_cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Assets/cover.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Assets/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Bootstraps_utility/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/CSS/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Database/Connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Main_js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Main_js/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/View/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/View/Register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/View/Shop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/View/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/.idea/E_J_SYSTEMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/AddProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/DeletePoduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Grape-Fruit-Tea-QQArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Black-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Earl-Grey-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Green-TeaArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Milk-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Taro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Honey-Green-TeaArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Lemon-Green-TeaArtboard-1-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Matcha-Milk-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Milk-Tea-with-3Js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Milk-Tea-with-Pearl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Peach-Green-TeaArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/coverBlog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/SaveStatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/ViewUpdateOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/ViewUpdateProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/saveUpdatedProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Dashoard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Main_js/AddProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Main_js/Delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Main_js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Productlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/addProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Assets/Product_Images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Database/Connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/Model/AddOrders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/Model/Order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/View/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/e_commerce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_System/e-commerce_withAdmin/.idea/E-Commerce-Adasys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErwinAct5/.idea/Act5_adasys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/Report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/FAQ.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/changelog.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/__construct.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/acceptpagebreak.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/addfont.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/addlink.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/addpage.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/aliasnbpages.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/cell.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/close.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/error.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/footer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/getpageheight.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/getpagewidth.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/getstringwidth.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/getx.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/gety.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/header.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/image.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/line.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/link.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/ln.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/multicell.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/output.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/pageno.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/rect.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setauthor.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setautopagebreak.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setcompression.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setcreator.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setdisplaymode.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setdrawcolor.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setfillcolor.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setfont.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setfontsize.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setkeywords.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setleftmargin.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setlinewidth.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setlink.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setmargins.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setrightmargin.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setsubject.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/settextcolor.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/settitle.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/settopmargin.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setx.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/setxy.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/sety.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/text.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/doc/write.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/courier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/courierb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/courierbi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/courieri.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/helvetica.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/helveticab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/helveticabi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/helveticai.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/symbol.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/times.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/timesb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/timesbi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/timesi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/font/zapfdingbats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/fpdf.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/fpdf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/install.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1250.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1251.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1252.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1253.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1254.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1255.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1257.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp1258.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/cp874.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-1.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-11.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-15.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-16.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-2.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-4.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-5.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-7.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/iso-8859-9.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/koi8-r.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/koi8-u.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/makefont.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/makefont/ttfparser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/20k_c1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/20k_c2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/CevicheOne-Regular-Licence.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/CevicheOne-Regular.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/CevicheOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/CevicheOne-Regular.z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/makefont.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto5.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto6.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto7.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fpdf186/tutorial/tuto7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/Database/Connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/ACCOMPLISHMENTS.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Main_js/Accomplishment__.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Main_js/Event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Main_js/Photos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Main_js/announcement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Photos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/Register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/ananouncement_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/index-admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/View/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Add_Accomplishment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Add_Annaouncement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Add_Event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Add_photos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Delete_accomplishment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Delete_announceMent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Delete_event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Delete_photo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/LogOut.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/SaveEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/SavePhotos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Save_Accomplishment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/Save_announcement_.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/ViewAll_photos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/ViewUpdateEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/ViewUpdate_accomplishment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/ViewUpdate_announce.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/ViewUpdate_phtos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/View_Accomplishment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/View_announce.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/View_event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Admin_Side_Updated/model/validateLogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/DATABASE_TABLES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Updated_Ui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Updated_Ui/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SK_PROJECT/Updated_Ui/index_ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/phpstorm-workshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/.idea/Act5_adasys.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/Info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Act5_adasys/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" beforeDir="false" afterPath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../E-Commerce-Adasys-Admin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commerce/AboutPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/E-commerce/AboutPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commerce/Menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/E-commerce/Menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commerce/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/E-commerce/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/DisplayUpdatedRevenue.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/DisplayUpdatedRevenue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ViewProducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ViewProducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PortfolioWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../PortfolioWeb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-design-Feliza_ruby" beforeDir="false" afterPath="$PROJECT_DIR$/../web-design-Feliza_ruby" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-design-course-restaurant" beforeDir="false" afterPath="$PROJECT_DIR$/../web-design-course-restaurant" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,47 +323,51 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2gDVDERGKSkZ4jtW0ufvrMiNxm1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "SQL Inserts",
-    "database.data.extractors.current.id": "SQL Inserts",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/xampp/htdocs/Group2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;SQL Inserts&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;SQL Inserts&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/Group2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\Group2" />
+      <recent name="L:\PhpstormProjects\Group2\Fdf" />
       <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Model\Product_Images" />
       <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Dashboard_Admin" />
       <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin" />
-      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\Group2\View" />
       <recent name="L:\PhpstormProjects\Milk-Tea-E-Commerce\Milk_Tea_E-Commerce\E-commerce\Assets\images" />
       <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\E-commerce\Assets" />
       <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Model\Product_Images" />
       <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin" />
-      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Dashboard_Admin" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -152,6 +424,27 @@
       <workItem from="1715907404838" duration="308000" />
       <workItem from="1715910574900" duration="3483000" />
       <workItem from="1715922775744" duration="757000" />
+      <workItem from="1716039869764" duration="261000" />
+      <workItem from="1716117003058" duration="333000" />
+      <workItem from="1716118441103" duration="94000" />
+      <workItem from="1716119746806" duration="1174000" />
+      <workItem from="1716126141511" duration="29000" />
+      <workItem from="1716127889897" duration="66000" />
+      <workItem from="1716128460147" duration="1560000" />
+      <workItem from="1716166059887" duration="564000" />
+      <workItem from="1716208322311" duration="758000" />
+      <workItem from="1716209179752" duration="1635000" />
+      <workItem from="1716255531924" duration="845000" />
+      <workItem from="1716293138941" duration="4805000" />
+      <workItem from="1716299604825" duration="1808000" />
+      <workItem from="1716305671817" duration="174000" />
+      <workItem from="1716511751583" duration="209000" />
+      <workItem from="1716515358092" duration="4151000" />
+      <workItem from="1716521293193" duration="1529000" />
+      <workItem from="1716538191582" duration="1204000" />
+      <workItem from="1716543732456" duration="19000" />
+      <workItem from="1716686064543" duration="623000" />
+      <workItem from="1716703131426" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
       <option name="closed" value="true" />

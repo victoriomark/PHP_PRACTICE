@@ -5,16 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca96b386-0787-4f74-8496-1af9f741fa74" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/Model/DisplayUpdatedRevenue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Login_admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Logout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E-commerce/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/E-commerce/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Products.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Products.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/AddProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/DeletePoduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Grape-Fruit-Tea-QQArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Black-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Earl-Grey-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Green-TeaArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Milk-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/HS-Milk-Taro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Honey-Green-TeaArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Lemon-Green-TeaArtboard-1-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Matcha-Milk-Tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Milk-Tea-with-3Js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Milk-Tea-with-Pearl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/Peach-Green-TeaArtboard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/Product_Images/coverBlog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/SaveStatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/ViewUpdateOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/ViewUpdateProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/Model/saveUpdatedProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Dashoard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Main_js/AddProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Main_js/Update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Main_js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/Productlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/addProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Admin/View/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Assets/Product_Images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/Database/Connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/Model/AddOrders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/Model/Order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/View/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_J_SYSTEMS/E-commerce/e_commerce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" beforeDir="false" afterPath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PortfolioWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../PortfolioWeb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-design-Feliza_ruby" beforeDir="false" afterPath="$PROJECT_DIR$/../web-design-Feliza_ruby" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-design-course-restaurant" beforeDir="false" afterPath="$PROJECT_DIR$/../web-design-course-restaurant" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +181,11 @@
       <workItem from="1715777790025" duration="437000" />
       <workItem from="1715865137998" duration="135000" />
       <workItem from="1715872575724" duration="259000" />
+      <workItem from="1716006626232" duration="1862000" />
+      <workItem from="1716012510922" duration="4177000" />
+      <workItem from="1716025453327" duration="486000" />
+      <workItem from="1716039135012" duration="677000" />
+      <workItem from="1716044219238" duration="1400000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
       <option name="closed" value="true" />

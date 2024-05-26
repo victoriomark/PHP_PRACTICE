@@ -1,0 +1,1 @@
+<?php$conn = mysqli_connect('localhost','root','','e_j_database');if (!$conn){    die('<h1>Connection Problem</h1>');}
