@@ -1,0 +1,1 @@
+<?phpinclude "../../Database/Connect.php";global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST'){    $ID = $_POST['ID'];    $Selected = $_POST['Selected'];    if(empty(!$Selected)){        $Query = "UPDATE orders SET OrderStatus = '$Selected' where id = $ID";        mysqli_query($conn,$Query);    }}

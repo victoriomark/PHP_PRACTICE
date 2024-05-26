@@ -1,0 +1,358 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	list-style: none;
+	text-decoration: none;
+}
+
+.main-container{
+	width: 100%;
+	min-height: 100vh;
+	display: flex;
+}
+.left-container{
+	background: #074173;
+	width: 25%;
+	/*position: sticky;*/
+	padding: 15px 0;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+}
+.right-container{
+	background: #C3EBF5;
+	padding: 40px;
+	flex-basis: 75%;
+    min-height: 100vh;
+    margin-left: 25%;
+}
+
+
+/*LEFT CONTAINER*/
+.top-nav{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	margin: 20px 0;
+}
+.top-nav .logo img{
+	width: 65px;
+	height: 65px;
+	margin: auto;
+	background: #fff;
+	border-radius: 50%;
+}
+.top-nav .logo-name{
+	margin-left: 10px;
+	align-self: center;
+	color: #f1f1f1;
+}
+
+
+
+.bot-nav{
+	width: 100%;
+	display: flex;
+	align-content: center;
+	padding: 20px 0;
+	line-height: 2em;
+	letter-spacing: 1.5px;
+	color: rgba(255, 255, 255, 0.9);
+}
+.bot-nav-cont{
+	width: 100%;
+}
+.gen{
+	padding: 0 20px;
+	margin-bottom: 20px;
+}
+.bot-nav-cont h5{
+	padding: 5px 0;
+	border-bottom: 2px solid #c1c1c1;
+	font-size: 1.1em;
+}
+
+.bot-nav-cont ul{
+	width: 100%;
+	padding: 0 25px;
+}
+.bot-nav-cont ul li a{
+	font-size: 1.25em;
+	color: rgba(255, 255, 255, 0.9);
+	width: 100%;	
+}
+.bot-nav-cont ul li a i{
+	margin-right: 10px;
+}
+.bot-nav-cont ul li{
+	padding: 5px 0;
+	width: 100%;
+	padding-left: 10px;
+	border-radius: 7px;
+	margin-bottom: 10px;
+}
+.bot-nav-cont ul li:hover{
+	background: #3C419F;
+}
+.bot-nav-cont ul li.active{
+	background: #3C419F;
+}
+
+
+/**/
+.logout-btn{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 40px;
+}
+.l-btn{
+	width: 100%;
+	margin-left: 25px;
+}
+.l-btn button{
+	font-size: 1.3em;
+	background: none;
+	border: none;
+	color: rgba(255, 255, 255, 0.9);
+	cursor: pointer;
+	padding: 6px;
+}
+.l-btn button:hover{
+	color: red;
+}
+.l-btn button i{
+	transform: rotate(180deg);
+	margin-right: 10px;
+}
+
+
+
+
+/*right side*/
+.home{
+	margin: auto;
+	width: 100%;
+	min-height: 100%;
+	background: #fff;
+	border-radius: 5px;
+	padding: 20px;
+}
+.home-cont h5{
+	letter-spacing: 2px;
+	font-size: 1.2em;
+}
+.home-cont h3{
+	margin-top: 10px;
+	letter-spacing: 2px;
+	font-size: 1.7em;
+	line-height: 1.7em;
+}
+.dash-cont{
+	width: 100%;
+	min-height: 100%;
+	border: 1px solid rgba(255, 210, 0, 0.4);
+	box-shadow: 0 0 10px rgba(255, 210, 0, 0.2);
+	border-radius: 5px;
+	margin-top: 15px;
+	padding: 50px;
+}
+.dash-card{
+	width: 100%;
+	min-height: 100%;
+}
+.dash-card-top{
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.box-card{
+	width: 240px;
+	height: 140px;
+	background: rgba(255, 210, 0, 0.4);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+.box-card-cont{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.card-cont-inner{
+}
+.announcements-num{
+	top: 0;
+	margin-right: -5px;
+	float: right;
+	margin-bottom: 5px;
+}
+.announcements-num span{
+	border-radius: 50%;
+	background: red;
+	padding: 3px 12px;
+	color: rgba(255, 255, 255, 1);
+}
+.box-card-cont i{
+	font-size: 2.4em;
+	display: flex;
+	justify-content: center;
+	color: #fff;
+	font-weight: 700;
+}
+.box-card-cont h3{
+	font-size: 1.1em;
+	margin-top: 20px;
+}
+
+
+
+
+.dash-card-bottom{
+	width: 100%;
+	min-height: 100%;
+	padding: 10px 15px;
+	padding-bottom: 20px;
+	background: rgba(255, 210, 0, 0.4);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+.bot-box-card{
+	width: 100%;
+	min-height: 200px;
+	border-radius: 5px;
+	background: #fff;
+}
+.bot-box-card-cont{
+	padding: 10px 0;
+	padding-bottom: 15px;
+}
+.events-top{
+	width: 100%;
+	border-bottom: 3px solid rgba(255, 210, 0, 0.4);
+	padding: 15px;
+	padding-left: 20px;
+	margin-bottom: 15px;
+}
+.events-top span{
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: rgba(0, 0, 0, 0.8);
+	font-size: 1.2em;
+}
+.events-cont{
+	width: 100%;
+	height: 100%;
+	padding: 5px 15px;
+}
+.events-card{
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 210, 0, 0.4);
+	padding: 5px 12px;
+	border-radius: 5px;
+}
+.events-card-inner{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 5px 0;
+}
+.events-card-inner p{
+	font-size: 1.1em;
+	max-width: 570px;
+}
+.events-card-inner .btn-edit-remove{
+	/*display: flex;*/
+	/*position: fixed;*/
+}
+.events-card-inner button{
+	padding: 8px;
+	border-radius: 5px;
+	margin-left: 6px;
+	border: none;
+	cursor: pointer;
+	font-size: 1.1em;
+	font-weight: 550;
+}
+.events-card-inner button a{
+	padding: 5px;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.9);
+}
+.events-card-inner .edit a{
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.9);
+}
+.events-card-inner button a i{
+	margin-right: 5px;
+}
+.events-card-inner .edit{
+	border: none;
+	background: rgba(0, 255, 0, 0.5);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.events-card-inner .remove{
+	background: rgba(255, 0, 0, 0.6);
+	border: none;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	color: rgba(255, 255, 255, 0.9);
+}
+.events-card-inner .edit:active, .events-card-inner .remove:active{
+	transform: scale(0.8);
+}
+
+
+
+
+.popup{
+	display: none;
+	margin: 15% 15%;
+	margin-left: 40%;
+	width: 450px;
+	min-height: 200px;
+	background: #074173;
+	position: absolute;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+	border-radius: 5px;
+	align-items: center;
+}
+.popup-content{
+	padding: 40px;
+	text-align: center;
+	color: #fff;
+}
+.btn-popup{
+	margin-top: 10px;
+}
+.btn-popup button{
+	padding: 15px;
+	margin: 0 3px;
+	border-radius: 5px;
+	font-size: 1.05em;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.btn-popup .exit{
+	background: rgba(0, 255, 0, 1.0);
+}
+.btn-popup .exit a{
+	text-decoration: none;
+	color: #000;
+	font-weight: 600;
+}
+.btn-popup .close{
+	background: rgba(255, 0, 0, 1.0);
+}
+.btn-popup .close a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: 600;
+}
